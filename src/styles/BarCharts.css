@@ -1,0 +1,48 @@
+.recharts-surface{
+height: 500px;
+}
+
+.barStyle{
+  margin: 0% auto auto 15%;
+}
+
+.nameStyle{
+  background: gray;
+    width: 17px;
+    height: 12px;
+    position: absolute;
+    margin-top: 6px;
+}
+
+.legendStyle{
+  position: relative;
+  top:5px
+}
+
+.legendName{
+    display: inline;
+    margin-left: 18px;
+    color: gray;
+    font-size:medium;
+}
+
+.resultStyle{
+  background: green;
+  width: 17px;
+  height: 12px;
+  position: absolute;
+  margin-top: 6px;
+  margin-left: 3px;
+}
+
+.legendResult{
+    display: inline;
+    margin-left: 20px;
+    color: green;
+    font-size:medium;
+    margin-right: 1px;
+}
+
+.legendStyleLine{
+  margin-top: 2px;
+}
